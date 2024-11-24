@@ -1,2 +1,2 @@
-# Xiao LEI
-Ph.D. Student in sociology at ZJU
+# xiaolei.github.io
+Xiao LEI
